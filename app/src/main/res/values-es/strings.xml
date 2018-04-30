@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Si</string>
+
+    <!-- Permissions -->
+
+    <string name="required_permissions">Se requieren permisos de servicio para esta aplicación</string>
+    <string name="needed_permissions">Debes otorgar algunos permisos obligatorios para continuar. ¿Quieres ir a la configuración de la aplicación?</string>
+
+</resources>

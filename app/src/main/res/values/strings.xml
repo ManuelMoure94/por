@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">portfolio</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- General -->
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+
+    <!-- Permissions -->
+
+    <string name="required_permissions">Service Permissions are required for this app</string>
+    <string name="needed_permissions">You need to give some mandatory permissions to continue. Do you want to go to app settings?</string>
+
+    <!-- Login -->
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!-- Buttons -->
+
+    <string name="login">Login In</string>
+
+</resources>
